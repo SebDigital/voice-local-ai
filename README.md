@@ -375,13 +375,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 ### Core Technologies
+
 - **OpenAI Whisper** - Speech recognition engine that powers our offline voice understanding
 - **Neuphonic NeuTTS Air** - Revolutionary voice synthesis and cloning technology
 - **SpeechRecognition** - Python speech recognition library
 - **PyAudio** - Audio I/O library for microphone and speaker control
 
 ### Original NeuTTS Air Contributors
+
 Special thanks to the talented developers who created the amazing NeuTTS Air foundation:
+
 - **Jiameng Gao** ([@jiamenguk](https://github.com/jiamenguk)) - Lead developer and creator of NeuTTS Air
 - **Harry Julian** ([@harryjulian](https://github.com/harryjulian)) - Core contributor and developer
 - **Tahir** ([@Tahirc1](https://github.com/Tahirc1)) - Contributor
@@ -392,6 +395,7 @@ Special thanks to the talented developers who created the amazing NeuTTS Air fou
 - **Abubakar Abid** ([@islamrealm](https://github.com/islamrealm)) - Contributor
 
 ### Voice-Local-AI Integration
+
 - **SebDigital** - Voice chat implementation, Whisper integration, edge computing features, and comprehensive documentation
 
 This project builds upon the excellent work of the NeuTTS Air team, extending it with complete offline speech recognition and creating a privacy-first voice assistant experience.
